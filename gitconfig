@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rkemp101@gmail.com
+	name = richardkemp
